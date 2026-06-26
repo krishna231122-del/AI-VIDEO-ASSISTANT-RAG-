@@ -5,6 +5,16 @@
 
 Lightweight toolkit for extracting, transcribing, summarizing, and building vector stores from video/audio assets.
 
+
+# Overview
+
+AI Video Assistant RAG transforms unstructured video and audio files into searchable knowledge. Instead of manually watching long videos to find information, users can ask natural language questions and receive context-aware answers generated from the video's content.
+
+The system combines speech recognition, text processing, vector embeddings, and large language models to create an efficient pipeline for information retrieval.
+
+---
+
+
 ## Features
 - Audio extraction and preprocessing: see [`Core.extractor`](Core/extractor.py) and [`utils.audio_processor`](utils/audio_processor.py).
 - Speech-to-text/transcription: see [`Core.transcriber`](Core/transcriber.py).
