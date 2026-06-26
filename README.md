@@ -37,6 +37,22 @@ The system combines speech recognition, text processing, vector embeddings, and 
 ---
 
 
+
+# How It Works
+
+The system follows a multi-stage pipeline:
+
+1. Extract audio from a video.
+2. Clean and preprocess the audio.
+3. Convert speech into text.
+4. Split the transcript into meaningful chunks.
+5. Generate vector embeddings for each chunk.
+6. Store embeddings in a vector database.
+7. Retrieve the most relevant information for a user query.
+8. Generate a context-aware response using an LLM.
+
+
+
 ## Quickstart
 
 1. Install dependencies
