@@ -52,6 +52,18 @@ The system follows a multi-stage pipeline:
 8. Generate a context-aware response using an LLM.
 
 
+# Advantages
+
+- Eliminates manual searching through long videos
+- Produces context-aware answers instead of keyword matches
+- Improves information retrieval using semantic search
+- Scales efficiently for large multimedia collections
+- Enhances productivity through automated summarization
+- Supports intelligent knowledge management
+
+---
+
+
 
 ## Quickstart
 
