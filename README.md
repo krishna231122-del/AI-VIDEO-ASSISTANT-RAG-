@@ -22,6 +22,21 @@ The system combines speech recognition, text processing, vector embeddings, and 
 - Summarization utilities: see [`Core.summary`](Core/summary.py).
 - Vector store management: see [`Core.vector_store`](Core/vector_store.py) and the [`vector_db/`](vector_db) folder.
 
+
+ # Features
+
+- Audio extraction from video files
+- Audio preprocessing for improved transcription quality
+- Automatic speech-to-text transcription
+- AI-powered text summarization
+- Semantic search using vector embeddings
+- Retrieval-Augmented Generation (RAG)
+- Persistent vector database for efficient retrieval
+- Natural language question answering over video content
+
+---
+
+
 ## Quickstart
 
 1. Install dependencies
