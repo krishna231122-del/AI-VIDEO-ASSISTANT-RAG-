@@ -15,6 +15,16 @@ The system combines speech recognition, text processing, vector embeddings, and 
 ---
 
 
+
+https://github.com/user-attachments/assets/e64a0beb-15c0-4cbc-ba6f-37a37412808f
+
+
+
+<img width="2940" height="1651" alt="Screenshot 2026-07-11 at 11 40 08 AM" src="https://github.com/user-attachments/assets/76188504-f095-4473-ae98-22329e7d73d3" />
+<img width="2940" height="1629" alt="Screenshot 2026-07-11 at 11 38 41 AM" src="https://github.com/user-attachments/assets/1a1ea38c-1388-4001-a291-ef619008c3fe" />
+
+
+
 ## Features
 - Audio extraction and preprocessing: see [`Core.extractor`](Core/extractor.py) and [`utils.audio_processor`](utils/audio_processor.py).
 - Speech-to-text/transcription: see [`Core.transcriber`](Core/transcriber.py).
